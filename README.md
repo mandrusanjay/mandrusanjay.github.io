@@ -5,21 +5,22 @@
 <meta name="viewport"content="width=device-width,initial-scale=1">
 	<title>mod2_solution</title>
 	    <link rel="stylesheet"href="style.css">
+
      
 </head>
 <body>
-<h1>Our Menu</h1>
+<h1>JUSTIN SEAGULL</h1>
 <div id="contentbox">
-	<div id="chicken" >Chicken</div>
-	<div><p>beef mama endhira sangathi ellaunnav dsfsfsfsff sffsfsfsfsf sfsfsf hgwoufhifu jhfoifhifheuhoihpieu jifhepivuepiuepiuepgi jfhepiuepoueop</p></div>
+	<div id="chicken" >KOOKIE</div>
+	<div><p>cause i..i..i'm in the stars tonight.so watch me bring the fire and set the night light</p></div>
 </div>
 <div id="contentbox">
-	<div id="beef">Beef</div>
-	<div><p>beef mama endhira sangathi ellaunnav dsfsfsfsff sffsfsfsfsf sfsfsf cjkehvivudivu jsuhviovhoivhevoih sfjvhoihepivjepovujevio sjvheipvhepivevpi vheivchoiev</p></div>
+	<div id="beef">BUNNY</div>
+	<div><p>shoes on..get up in the mon..cup a milk let's rock and roll..</p></div>
 </div>
 <div id="contents">
-	<div id="sushi">Sushi</div>
-	<div><p>beef mama endhira sangathi ellaunnav dsfsfsfsff sffsfsfsfsf sfsfsf sjhsfiovysviouv jgoivupovujov vjhepvje;ov rjivheipvjeovj</p></div>
+	<div id="sushi">J.K</div>
+	<div><p>king-kong get the drum roll..rolling roll like a rolling stone..</p></div>
 </div>
 </div>
 </body>
