@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"content="width=device-width,initial-scale=1">
+	<title>mod2_solution</title>
+	    <link rel="stylesheet"href="style.css">
+
+     
+</head>
+<body>
+<h1>JUSTIN SEAGULL</h1>
+<div id="contentbox">
+	<div id="chicken" >KOOKIE</div>
+	<div><p>cause i..i..i'm in the stars tonight.so watch me bring the fire and set the night light</p></div>
+</div>
+<div id="contentbox">
+	<div id="beef">BUNNY</div>
+	<div><p>shoes on..get up in the mon..cup a milk let's rock and roll..</p></div>
+</div>
+<div id="contents">
+	<div id="sushi">J.K</div>
+	<div><p>king-kong get the drum roll..rolling roll like a rolling stone..</p></div>
+</div>
+</div>
+</body>
+</html>

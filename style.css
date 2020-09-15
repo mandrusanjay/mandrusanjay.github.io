@@ -2,11 +2,11 @@
  *{box-sizing: border-box; margin: 0; padding: 0;
  }
  h1{text-align:
-center; margin-bottom: 40px;
+center;color:yellow;margin-bottom: 10px;background:url("jk.png") no-repeat top center; height: 180px;
  }
  #contentbox,#contents{background-color: lightblue;
 border:solid black; width:33.3333%;
-float:left;margin: 5px;
+float:left;margin: 5px; overflow:auto;
  }	
 #chicken{background-color: orange;
 	width:30%;
@@ -32,7 +32,7 @@ float:left;margin: 5px;
 @media(min-width: 992px){
 #contentbox,#contents{background-color: lightblue;
 border:solid black; width:31%;
-float:left;margin: 5px;
+float:left;margin: 5px;overflow:auto;
  }	
 #chicken{background-color: orange;
 	width:30%;
@@ -61,7 +61,7 @@ float:left;margin: 5px;
 @media(min-width: 768px) and (max-width: 991px){
 #contentbox{background-color: lightblue;
 border:solid black; width:48%;
-margin: 5px;float:left;
+margin: 5px;float:left;overflow:auto;
  }		
 #contents{width:98%;
 background-color: lightblue;
@@ -92,7 +92,7 @@ margin: 5px;float:left;}
 @media(max-width: 767px){
 #contentbox,#contents{background-color: lightblue;
 border:solid black; width:100%;
-margin: 5px;
+margin: 5px;overflow:auto;
  }
 }	
 </style>
